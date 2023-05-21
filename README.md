@@ -34,7 +34,7 @@
     <li>Clone the repository:</li>
   </ol>
 
-  <pre><code>git clone https://github.com/your/repository.git</code></pre>
+  <pre><code>git clone https://github.com/KanurkarPrateek/decentralized-warranty</code></pre>
 
   <ol start="2">
     <li>Install the necessary dependencies:</li>
@@ -77,8 +77,6 @@ REACT_APP_IPFS_API_URL=your_ipfs_api_url</code></pre>
   <h2>License</h2>
   <p>This project is licensed under the MIT License.</p>
 
-  <h2>Contact</h2>
-  <p>If you have any questions or inquiries, please contact <a href="mailto:your_email@example.com">your_email@example.com</a>.</p>
 </body>
 
 </html>
